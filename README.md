@@ -1,2 +1,5 @@
 # Project-1
-FCAI - CS112 - Assignment 2 - Problem 6 - Haircut
+##FCAI - CS112 - Assignment 2 - Problem 6 - Haircut
+
+
+### project notes
